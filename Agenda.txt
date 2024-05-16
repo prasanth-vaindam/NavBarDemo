@@ -1,0 +1,4 @@
+1(A). Using list create a NavBar
+1(B). 
+2. Responsive Nav NavBar
+3. Sticky NavBar
